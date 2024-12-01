@@ -10,23 +10,23 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good Visualization: https://www.statista.com/chart/8817/mac-sales-as-a-percentage-of-apples-revenue/
+      Bad Visualization: https://dribbble.com/shots/14933112-Figma-Polar-templates-UI-kit-Chart-infographic-design
 
+Good explaination:
+The Statista chart on Mac sales as a Percentage of Apple’s revenue is a good example due to its adherence to Gestalt principles, low cognitive load, strong perceived factual basis, clear provenance rhetoric, and effective format. It uses Gestalt principles like proximity and similarity by grouping related elements through consistent bar designs making comparisons across time periods easy. The chart minimizes cognitive load with its simple bar chart format, clear axis labels, and useful icons, allowing viewers to grasp the main point very clearly. It's precise percentages and labeled time periods enhance its perceived factual basis, signaling accuracy and reliability. Additionally, the chart includes provenance rhetoric by clarifying Apple's fiscal year and being published by a reputable source, building transparency and trust. Its format is highly effective, utilizing a horizontal bar chart with direct percentage labels to eliminate the need for mental calculations and information is accessible at a glance. 
 
-
-
-
-
+Bad example explaination: 
+The visualization in the Figma Polar UI Kit chart infographic can be considered ineffective for several reasons. First, it violates Gestalt principles by using many design elements (such as overlapping shapes, gradients, and segmented colors) that compete for the viewers attention. Second, the design imposes a high cognitive load due to its overwhelming amount of visual information, including decorative lines, icons, and text elements that lack clear prioritization. Without a defined visual hierarchy, this makes reading the chart unnecessarily complex. Finally, the visualization lacks a perceived factual basis and fails to incorporate provenance rhetoric effectively. It does not provide clear labels, contextual data points, or credible sources to explain where the information comes from or how it was processed. 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+Good example improvements:
+While the  chart is effective, there are a few improvements to suggest. First, adding a brief explanatory caption or context at the top of the chart would help users unfamiliar with Apple’s revenue structure understand the significance of the data, such as how Mac sales relate to overall revenue. To improve accessibility for viewers with visual impairments, the chart could incorporate higher contrast between the bars and background (they are all very blue. Additionally, providing a source note at the bottom to explicitly reference where the data was sourced from Apple’s financial reports would further strengthen the perceived factual basis. To address reproducibility, offering a link to the original dataset would allow others to verify and explore the data further. 
 
-
-
-
-
+Bad example improvements: 
+To improve, a new design should aim reduce complexity and enhance clarity. Overlapping shapes and gradients should be replaced with solid colors to make data distinctions clear and align with the Gestalt principle of similarity. A clear legend and consistent, consolidated labeling would reduce cognitive load, and using bold fonts and contrast for the key points of data would help. Finally, including a clearer point of view in a title and data source at the bottom would enhance credibility and trust. These changes would make the visualization both clearer and more effective.
 
       
       ```
